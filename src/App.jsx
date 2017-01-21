@@ -1,12 +1,10 @@
-import React from 'react';
-import CountDownTimer from './CountDownTimer.jsx';
+import React, {Component} from 'react';
 
-const App = () => {
-  return (
-    <div className="app">
-        <CountDownTimer></CountDownTimer>
-    </div>
-  )
-};
-
+class App extends Component {
+  render() {
+    return (
+      <h1>Hello React :)</h1>
+    );
+  }
+}
 export default App;
