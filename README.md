@@ -1,12 +1,8 @@
-
+#### [⇐ Previous](sports_ball_with_react.md) | [Next ⇒](README.md)
 
 # Sports Ball with React Tools
 
-For this assignment, your task is to build a **React JSX** user interface that cheers your favorite city's sports ball team.
-
-NOTE: Just use a couple of your favorite teams. For the rest just display 'never heard of it'. No need to query an external API to find the team associated with a city. You can store the image in your code base or link to an external image. 
-
-To get started, navigate to your locally cloned `react-sports-ball` repository.
+For this assignment, your task is to build a **React JSX** user interface that cheers your favorite city's sports ball team. To get started, navigate to your locally cloned `react-sports-ball` repository.
 
 ```shell
 cd path/to/react-sports-ball
