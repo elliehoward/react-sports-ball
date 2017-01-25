@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
+import CityForm from './CityForm'
 
-class App extends Component {
-  render() {
+
+export default () => {
     return (
-      <h1>Hello React :)</h1>
-    );
-  }
-}
-export default App;
+        <div className="app">
+            <CityForm/>
+        </div>
+    )
+};
